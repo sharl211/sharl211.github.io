@@ -10,17 +10,15 @@ body {
   padding-top: 54px;
   color: #868e96;
 }
-
-.image {
-  width: 100%;
-}
-
-.project-description
-{
+.project-description {
   background: #F1F2F6;
   border-radius: 12px;
   padding: 15px;
 }
+.image {
+  width: 100%;
+}
+
 .img-container {
   position: relative;
   width: 100%;
